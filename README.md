@@ -1,4 +1,4 @@
-# E-COMMERCE-INFO--
+# E-COMMERCE-INFO and online transactions--
 E-commerce retail analysis refers to the process of examining and evaluating data related to online retail transactions and customer behavior. This analysis is crucial for e-commerce businesses as it provides insights into customer preferences, buying patterns, market trends, and overall performance metrics. One important aspect of e-commerce retail analysis is customer ID, which plays a key role in understanding and segmenting customers for targeted marketing strategies and personalized experiences.
 
 Here is a detailed description of e-commerce retail analysis and customer ID:
